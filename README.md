@@ -48,7 +48,7 @@ Contributions are welcome! To propose changes:
 4. Push the branch: `git push origin feature/your-feature`
 5. Open a Pull Request with a clear description and context
 
-Please follow conventional commit messages when possible and include tests for new functionality.
+Please follow typical commit messages when possible and include tests for new functionality.
 
 ## Security
 
