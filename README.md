@@ -38,7 +38,7 @@ Common npm scripts you may find or add:
 - `npm run dev` — start in development mode (e.g., with nodemon)
 - `npm test` — run test suite
 
-## Contributing.
+## Contributing
 
 Contributions are welcome! To propose changes:
 
